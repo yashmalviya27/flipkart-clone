@@ -1,0 +1,20 @@
+export const Mobile =[
+    { title: 'Mi', url: '/mi' , color:'gray' },
+    { title: 'Realme', url: '/realme' },
+    { title: 'Samsung', url: '/samsung' },
+    { title: 'Infinix', url: '/infinix' },
+    { title: 'OPPO', url: '/oppo' },
+    { title: 'Apple', url: '/apple' },
+    { title: 'Vivo', url: '/vivo' },
+    { title: 'Honor', url: '/honor' },
+    { title: 'Asus', url: '/asus' },
+    { title: 'Poco X2', url: '/poco-x2' },
+    { title: 'realme Narzo 10', url: '/realme-narzo-10' },
+    { title: 'Infinix Hot 9', url: '/infinix-hot-9' },
+    { title: 'IQOO 3', url: '/iqoo-3' },
+    { title: 'iPhone SE', url: '/iphone-se' },
+    { title: 'Motorola razr', url: '/motorola-razr' },
+    { title: 'realme Narzo 10A', url: '/realme-narzo-10a' },
+    { title: 'Motorola g8 power lite', url: '/motorola-g8-power-lite' }, 
+    
+]
